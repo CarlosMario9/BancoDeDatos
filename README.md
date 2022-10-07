@@ -1,2 +1,2 @@
-# BancoDeDatos
- desarrollo modulo de talento humano, certificado laborarl en PDF 
+# bancodedatos_2
+ Proyecto institucional universidad FET
